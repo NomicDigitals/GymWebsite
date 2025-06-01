@@ -41,3 +41,7 @@ This is a simple multi-page website project created as a first semester universi
 ---
 
 &copy; 2024 University Assignment
+
+##Author
+
+Name: Muhammad Ruhaab Khan  ST.ID 2025S-BCYS-010  SUB: ICT 
